@@ -1,3 +1,3 @@
 const dados = {
-     ultimaMateria: "valor inicial de teste"
-   };
+  ultimaMateria: "teste automatico via n8n"
+};
