@@ -1,1 +1,1 @@
-const dados = { ultimaMateria: "Teste redeploy automatico - 2026-08-11T06:25:00.765Z" }
+const dados = { ultimaMateria: "Teste redeploy automatico - 2026-08-11T12:49:31.400Z" }
